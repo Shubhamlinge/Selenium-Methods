@@ -1,0 +1,60 @@
+1662960685115	geckodriver	INFO	Listening on 127.0.0.1:61137
+1662960688194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBi5WVx"
+1662960689123	Marionette	INFO	Marionette enabled
+1662960689139	Marionette	INFO	Listening on port 61169
+WebDriver BiDi listening on ws://localhost:61138
+Read port: 61169
+1662960689476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofileBi5WVx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61138/devtools/browser/9307b553-d646-44dd-97e7-8b029aa101f7
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+1662960704009	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1662960705579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 1360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 5666 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+1662960764395	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 3814 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript error: https://eus.rubiconproject.com/usync.js, line 4: SecurityError: Document.cookie getter: Forbidden in a sandboxed document without the 'allow-same-origin' flag.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 6258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 2515 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 3116 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 5312 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JRDtgcUl_7OUjJ4QO8bVbwNuRTRqDUxuSBYCwiPHS6U.js line 2 > eval line 1136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1662963329364	Marionette	INFO	Stopped listening on port 61169
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Admin\AppData\Local\Temp\rust_mozprofileBi5WVx\protections.sqlite
+Invalid port. Exiting...
+1669739666408	geckodriver	INFO	Listening on 127.0.0.1:52084
+1669739669315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilesI7Ds2"
+1669739672605	Marionette	INFO	Marionette enabled
+1669739672619	Marionette	INFO	Listening on port 52095
+WebDriver BiDi listening on ws://127.0.0.1:52085
+Read port: 52095
+1669739673522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Admin\\AppData\\Local\\Temp\\rust_mozprofilesI7Ds2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52085/devtools/browser/750fd118-590a-4385-bb19-d8ee6a8f8a1f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1669739711431	Marionette	INFO	Stopped listening on port 52095
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
